@@ -4,29 +4,34 @@ import { Stack } from "@chakra-ui/layout";
 
 const goals = [
   {
-    title: "goal 1",
+    title: "Focus on Education",
     description:
-      "lorem    I have been privileged to call HOMETOWN home since 1965, and like many of you, I believe our future has become more uncertain than ever, as we all confront really tough issues and  circumstances that directly impact – and threaten – the quality  of our lives.",
+      "The children are the leaders of tomorrow, if they are not trained well and right, will there be hope for the country? Possible solutions that can savage the educational sector that my government will work towards is to make sure funds are available and some basic needs like books, uniforms, etc, will be made available to support the children to go to school.",
   },
   {
-    title: "goal 2",
+    title: "Alleviation of Poverty",
     description:
-      "lorem    I have been privileged to call HOMETOWN home since 1965, and like many of you, I believe our future has become more uncertain than ever, as we all confront really tough issues and  circumstances that directly impact – and threaten – the quality  of our lives.",
+      "Looking critically at the issue of unemployment, you’ll find out that a lot of the unemployed citizens, especially the youth don’t have the necessary skills and education to hold a job. To solve this, while jobs are being created, people should be trained on some technical skills, vocational skills and the entrepreneurial skills.",
   },
   {
-    title: "goal 3",
+    title: "Electricity Supply",
     description:
-      "lorem    I have been privileged to call HOMETOWN home since 1965, and like many of you, I believe our future has become more uncertain than ever, as we all confront really tough issues and  circumstances that directly impact – and threaten – the quality  of our lives.",
+      "Electricity is one of the basic needs a government should provide for its citizens but some communities can’t boast of steady light. While some areas have forgotten how it feels to have light in the community. It’s worst for business owners who now have to find alternatives to have light and run their businesses.",
   },
   {
-    title: "goal 4",
+    title: "Women Participation",
     description:
-      "lorem    I have been privileged to call HOMETOWN home since 1965, and like many of you, I believe our future has become more uncertain than ever, as we all confront really tough issues and  circumstances that directly impact – and threaten – the quality  of our lives.",
+      "The role of women in community development cannot be overlooked. Starting from the homes, they play a great impact by being training the children who are the future of the community.      Women will be offered a platform to air their personal views on policies affecting them. o enjoy steady light.",
   },
   {
-    title: "goal 5",
+    title: "Communal Health",
     description:
-      "lorem    I have been privileged to call HOMETOWN home since 1965, and like many of you, I believe our future has become more uncertain than ever, as we all confront really tough issues and  circumstances that directly impact – and threaten – the quality  of our lives.",
+      "Everyone in the community is entitled to good healthcare. This we will do by identifying top public health concern, craft out a workable plan and make sure the community have access to medical services, even in emergency situation.",
+  },
+  {
+    title: "Youth Involvement",
+    description:
+      "The youth are the future leaders of tomorrow. The youth are considered the engine room and life of the any community and it is important they are carried along in everything we will be doing which will provide them the opportunity to contribute to the community development.",
   },
 ];
 
@@ -51,7 +56,7 @@ function Priorities() {
             return (
               <PriorityCard
                 key={idx}
-                indx={idx}
+                indx={idx + 1}
                 title={g.title}
                 description={g.description}
               />
