@@ -18,6 +18,7 @@ const navStyle = {
   padding: "10px 1.5rem",
   display: "block",
   fontSize: "1.2rem",
+  fontFamily: "Open Sans",
 };
 function NavSMDrawer(props) {
   return (
@@ -40,6 +41,9 @@ function NavSMDrawer(props) {
             </NavLink>
             <NavLink href="/projects" style={navStyle} linkClass="link-md">
               <Text className="afont">Projects</Text>
+            </NavLink>
+            <NavLink href="/support" style={navStyle} linkClass="link-md">
+              <Text className="afont">Support Groups</Text>
             </NavLink>
 
             <NavLink href="/contact" style={navStyle} linkClass="link-md">
