@@ -21,7 +21,7 @@ const goals = [
   {
     title: "Women Participation",
     description:
-      "The role of women in community development cannot be overlooked. Starting from the homes, they play a great impact by being training the children who are the future of the community.      Women will be offered a platform to air their personal views on policies affecting them. o enjoy steady light.",
+      "The role of women in community development cannot be overlooked. Starting from the homes, they play a great impact by being training the children who are the future of the community.      Women will be offered a platform to air their personal views on policies affecting them.",
   },
   {
     title: "Communal Health",
