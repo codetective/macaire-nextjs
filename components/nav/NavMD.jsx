@@ -32,6 +32,9 @@ function NavMD(props) {
         <NavLink href="/projects" style={navStyle} linkClass="link-md">
           <Text className="afont">Projects</Text>
         </NavLink>
+        <NavLink href="/manifesto" style={navStyle} linkClass="link-md">
+          <Text className="afont">Manifesto</Text>
+        </NavLink>
         <NavLink href="/support" style={navStyle} linkClass="link-md">
           <Text className="afont">Support Groups</Text>
         </NavLink>
