@@ -37,11 +37,12 @@ export default class Example extends Component {
         <AnimateHeight id="example-panel" duration={500} height={height}>
           <Box className="ofont">
             <Text as="p" p="2">
-              I’m Emmanuel, and I am running to become the office and
-              constituency he is running for.
+              I’m Emmanuel, and I am running for the office of Federal
+              Representive for Ini/ikono at the Federal House of
+              Representatives.
             </Text>
             <Text as="p" p="2">
-              I have been privileged to call HOMETOWN home since 1965, and like
+              I have been privileged to call Ikono home since 1965, and like
               many of you, I believe our future has become more uncertain than
               ever, as we all confront really tough issues and circumstances
               that directly impact – and threaten – the quality of our lives.
@@ -67,10 +68,10 @@ export default class Example extends Component {
               decision making we will have better days ahead.
             </Text>
             <Text as="p" p="2">
-              Being your next OFFICE is an extraordinary leadership challenge. I
-              believe my life’s work in media and business, in Hawai‘i and on
-              the mainland, and in community service, has provided me a clear
-              insight on many of the issues we must address.
+              Being your next Representative is an extraordinary leadership
+              challenge. I believe my life’s work in media and business, in
+              Hawai‘i and on the mainland, and in community service, has
+              provided me a clear insight on many of the issues we must address.
             </Text>
             <Text as="p" p="2">
               I am ready and capable of accepting the responsibility for the
