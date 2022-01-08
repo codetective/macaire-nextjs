@@ -64,7 +64,7 @@ export default function About() {
             </div>
             <div className={css.num}>
               <h3>
-                Nka Iban Ikot Ikpe: "Nsikak Umoren is the man who understands
+                Nka Iban Ikot Ikpe: "Emmanuel Ukpong is the man who understands
                 the people very well. We are in full support of this mandate."
               </h3>
             </div>
@@ -85,7 +85,7 @@ export default function About() {
               <h3>
                 Etip Ediene Women Organization (EEWO): "A visionary leader is
                 one who has a vision and knows how to go about it to achieve his
-                visions. Nsikak is a visionary leader."
+                visions. Emmanuel Ukpong is a visionary leader."
               </h3>
             </div>
             <div className={css.num}>
@@ -97,15 +97,15 @@ export default function About() {
             <div className={css.num}>
               <h3>
                 Presbyterial Young People Association of Nigeria (PYPAN):
-                "Nsikak is a leader to emulate. He has consistently shown his
-                leadership qualities over the years and by this we know we have
-                the right candidate."
+                "Emmanuel Ukpong is a leader to emulate. He has consistently
+                shown his leadership qualities over the years and by this we
+                know we have the right candidate."
               </h3>
             </div>
             <div className={css.num}>
               <h3>
                 Men Christian Association (MCA) : "We stand in full support of
-                Nsikak’s bid in the Federal House of Representative."
+                Emmanuel Ukpong’s bid in the Federal House of Representative."
               </h3>
             </div>
             <div className={css.num}>
@@ -136,7 +136,7 @@ export default function About() {
             <div className={css.num}>
               <h3>
                 One Mind Association of Nigeria: "We come together with one mind
-                to say Nsikak is the man we want."
+                to say Emmanuel Ukpong is the man we want."
               </h3>
             </div>
             <div className={css.num}>
@@ -148,8 +148,8 @@ export default function About() {
             </div>
             <div className={css.num}>
               <h3>
-                Nto Obio Ikang for Nsikak Group: "We stand behind our very own.
-                Come 2023 Nsikak will be a Federal House Member."
+                Ini for Emmanuel Ukpong Group: "We stand behind our very own.
+                Come 2023 Emmanuel Ukpong will be a Federal House Member."
               </h3>
             </div>
             <div className={css.num}>
@@ -167,15 +167,15 @@ export default function About() {
             </div>
             <div className={css.num}>
               <h3>
-                Obot Akara Youth Congress (OYC): "The youth of Obot Akara are
-                solidly behind you. Go and win for us."
+                Ikono Youth Congress (IYC): "The youth of ikono are solidly
+                behind you. Go and win for us."
               </h3>
             </div>
             <div className={css.num}>
               <h3>
                 Ikot Ekpene Federal Constituency Students Assembly (IFCONSA):
-                "Nsikak for Federal House of representative. We are with you on
-                this journey."
+                "Emmanuel Ukpong for Federal House of representative. We are
+                with you on this journey."
               </h3>
             </div>
             <div className={css.num}>
